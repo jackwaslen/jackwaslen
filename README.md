@@ -1,4 +1,4 @@
-## Hey, I'm Jack! Welcome to my Github.
+## Hey, I'm Jack!
 - I'm currently a second-year student at Wilfrid Laurier University, double-majoring in Computer Science and Business.
 -  I've been coding since I was 15, and am currently exploring data analysis with Python (Pandas) and SQL.
 -  I love space and sports, and will probably upload projects around both of those.
