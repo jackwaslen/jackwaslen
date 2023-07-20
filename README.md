@@ -1,7 +1,7 @@
 ## Hey, I'm Jack!
-- I'm currently a second-year student at Wilfrid Laurier University, double-majoring in Computer Science and Business.
--  I've been coding since I was 15, and am currently primarly working in Python/Java/SQL/VBA.
--  I love space and sports, and will probably upload projects around both of those.
+- I'm currently a third-year student at Wilfrid Laurier University, double-majoring in Computer Science and Business.
+- I've been coding since I was 15, and am currently primarly working in Python/Java/SQL/Swift.
+- I've worked at the Financial Services Regulatory Authority of Ontario (FSRA) as a Programming & Data Analyst. 
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jackwaslen&show_icons=true&theme=tokyonight"/>
