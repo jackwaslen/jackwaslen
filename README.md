@@ -1,6 +1,6 @@
 ## Hey, I'm Jack!
 - I'm currently a third-year student at Wilfrid Laurier University, double-majoring in Computer Science and Business.
-- I've been coding since I was 15, and am currently primarly working in Python/Java/SQL/Swift.
+- I'm currently primarly working in Python/Java/SQL/Swift.
 - I've worked at the Financial Services Regulatory Authority of Ontario (FSRA) as a Programming & Data Analyst. 
 
 
