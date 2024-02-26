@@ -3,6 +3,12 @@
 - I'm currently primarly working in Python/Java/SQL/Swift.
 - I've worked at the Financial Services Regulatory Authority of Ontario (FSRA) as a Programming & Data Analyst. 
 
+**Feel Free to get in touch and say Hi!**
+- [Profile](https://github.com/jackwaslen "Jack Waslen")
+- [Website](https://www.linkedin.com/in/jack-waslen-4ab873223/ "Welcome")
+- Email: jackwaslen16@gmail.com
+
+- 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jackwaslen&show_icons=true&theme=tokyonight"/>
 
@@ -17,8 +23,5 @@
 
 
 
-**Jack Waslen**
-- [Profile](https://github.com/jackwaslen "Jack Waslen")
-- [Website](https://www.linkedin.com/in/jack-waslen-4ab873223/ "Welcome")
-- Email: jackwaslen16@gmail.com 
+
 
