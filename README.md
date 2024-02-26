@@ -1,9 +1,9 @@
 ## Hey, I'm Jack ⭐️
 - I'm currently a third-year student at Wilfrid Laurier University, double-majoring in Computer Science and Business.
 - I'm currently primarly working in iOS Development, using Swift/SwiftUI/Firebase aswell as working in Quantum Computing.
-- I've worked at the Financial Services Regulatory Authority of Ontario (FSRA) as a Programming & Data Analyst. 
+- I've worked extensively with Python/Java/SQL implementing low-level Data Structure Algorthims, Operating System Management, Algorithim Analysis, and Large/Big Data Analysis.
 
-**Feel Free to get in touch and say Hi!**
+**Feel Free to Get in Touch!**
 - [Profile](https://github.com/jackwaslen "Jack Waslen")
 - [Website](https://www.linkedin.com/in/jack-waslen-4ab873223/ "Welcome")
 - Email: jackwaslen16@gmail.com
