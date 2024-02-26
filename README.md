@@ -14,3 +14,10 @@
 <img align="left" alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="left" alt="EDX" src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white"/>
+
+**Jack Waslen**
+
+- [Profile](https://github.com/jackwaslen "Jack Waslen")
+- [Website](https://www.linkedin.com/in/jack-waslen-4ab873223/ "Welcome")
+- Email: jackwaslen16@gmail.com 
+
