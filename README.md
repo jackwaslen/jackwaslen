@@ -1,7 +1,7 @@
 ## Hey, I'm Jack ⭐️
 - I'm currently a third-year student at Wilfrid Laurier University, double-majoring in Computer Science and Business.
 - I'm currently primarly working in iOS Development, using Swift/SwiftUI/Firebase aswell as working in Quantum Computing.
-- I've worked extensively with Python/Java/SQL/C implementing low-level Data Structure Algorthims, Operating System Management, Algorithim Analysis, and Large/Big Data Analysis.
+- I've worked extensively with Python/Java/SQL/C implementing low-level Data Structure Algorthims, Operating System Management, Algorithim Analysis, and Big Data Analysis.
 
 **Feel Free to Get in Touch!**
 - [Profile](https://github.com/jackwaslen "Jack Waslen")
