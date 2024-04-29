@@ -4,8 +4,8 @@
 - I've worked extensively with Python/Java/SQL/C implementing low-level Data Structure Algorthims, Operating System Management, Algorithim Analysis, and Big Data Analysis.
 
 **Feel Free to Get in Touch!**
-- [Profile](https://github.com/jackwaslen "Jack Waslen")
-- [Website](https://www.linkedin.com/in/jack-waslen-4ab873223/ "Welcome")
+- [Check me out on Medium!](https://medium.com/@jackwaslen16)
+- [LinkedIn](https://www.linkedin.com/in/jack-waslen-4ab873223/ "Welcome")
 - Email: jackwaslen16@gmail.com
 
 
