@@ -1,12 +1,13 @@
 ## Hey, I'm Jack!
-- I'm currently a fourth-year student at Wilfrid Laurier University, double-majoring in Computer Science and Business.
+- I'm currently a fifth-year student at Wilfrid Laurier University, double-majoring in Computer Science and Business.
 - I'm currently primarly working in iOS Development, using Swift/SwiftUI/Firebase aswell as working in Quantum Computing.
-- I've worked extensively with Python/Java/SQL/C implementing low-level Data Structure Algorthims, Operating System Management, Algorithim Analysis, and Big Data Analysis.
+- I've worked extensively with Python/Java/SQL/C implementing low-level Data Structure Algorthims, Unix/Linux, Algorithim Analysis, and Big Data Analysis.
 
 **Feel Free to Get in Touch!**
 - [Check me out on Medium!](https://medium.com/@jackwaslen16)
 - [LinkedIn](https://www.linkedin.com/in/jack-waslen-4ab873223/ "Welcome")
 - Email: jackwaslen16@gmail.com
+- App Store: Searching "Jack Waslen" will show my published iOS applications.
 
 
 [![forthebadge](http://forthebadge.com/images/badges/made-with-swift.svg)](http://forthebadge.com)
